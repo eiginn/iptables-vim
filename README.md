@@ -2,7 +2,7 @@ This was a mirror of http://www.vim.org/scripts/script.php?script_id=1425
 
 and has some updated keyword highlighting
 
-# updating the syntax highlighting form man pages
+# updating the syntax highlighting from man pages
 ## longopts "iptablesLongParam"
 
 ```sh
